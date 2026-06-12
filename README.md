@@ -105,7 +105,29 @@ This project was developed as a team project during university coursework. My pr
 
 ## Screenshots
 
-Project screenshots are available in the `screenshots` directory.
+### Promotion Management
+
+![Promotion List](screenshots/promotion-list.png)
+
+![Promotion Create](screenshots/promotion-create.png)
+
+---
+
+### Payroll Management
+
+![Payroll List](screenshots/payroll-list.png)
+
+![Payroll Management](screenshots/payroll-manage.png)
+
+---
+
+### Leave Request Management
+
+![Leave Request](screenshots/leave-request.png)
+
+![Leave Request Create](screenshots/leave-request-create.png)
+
+![Leave Request Management](screenshots/leave-request-management.png)
 
 ---
 
