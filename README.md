@@ -131,6 +131,27 @@ This project was developed as a team project during university coursework. My pr
 
 ---
 
+## Database Design
+
+As part of my responsibilities, I participated in database design, relationship analysis, schema improvement, and backend integration.
+
+### ER Diagram (Modules Developed by Me)
+
+![ER Diagram](docs/erd-my-contribution.png)
+
+### Database Concepts Applied
+
+* Relational Database Design
+* One-to-Many Relationships
+* Foreign Key Management
+* Payroll & Working Hours Integration
+* Promotion-Product Mapping
+* CRUD Operations
+* Backend API Integration
+* Database Refactoring
+
+---
+
 ## Team Project Information
 
 This project was developed as a team project. My contributions focused on the Promotion Module, Payroll Module, Leave of Absence Module, and related database implementation.
